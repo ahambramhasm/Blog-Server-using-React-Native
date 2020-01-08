@@ -1,0 +1,232 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-gesture-handler] /home/techjini/Documents/blog/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /home/techjini/Documents/blog/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /home/techjini/Documents/blog/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.4] /home/techjini/.gradle/caches/transforms-2/files-2.1/9695bb79ff48dbbf11965963f6a2dfbd/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /home/techjini/.gradle/caches/transforms-2/files-2.1/f6eaac467fdb3fdfad537cccc679bb3f/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/techjini/.gradle/caches/transforms-2/files-2.1/75d0abf5d8e16c39cecbca74b39a7ec0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/49765a99f128ad3609dd2be1879890c4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/a802e708d777e75d02340e32c0524fd5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/63ae2b61a11d8a9cf29479dbcf90ff90/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/2bf4ac9757533e2c3086a0858b873bfc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/6ca428fd7351047c283f5e3d02b294b6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/51048bd987baf0c282d0557d176ecc73/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/2eb72ccd3e33fda256e831dbc49368b2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/8d1c0783f8fffbd3612c439af381dbd3/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.transition:transition:1.1.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/ad4364d3077358952a0558dd20143902/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/dfc5120a70d4e5fb22e88555bcf3d42a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/545ecca96010f513249a79d344ee1adf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/f4639f6054db6779f0b723f1814c6989/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/247b6e9cea18e32c66fc1509e754edf2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/techjini/.gradle/caches/transforms-2/files-2.1/aab6ec74cdfdc8819c5d0b6930671a67/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/f8fa2db41c499fe952db920b401fc022/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/5fc23617a54386cc55ec987696f5437c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/ff1aa9e17946fa213238901194d966b8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/78d16640d59ab89ef4b050b6fb018057/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/020be7e7b2b0cc38fc4161c846840e3c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/91dcfd72722c26b1ea1b5c2ffa809d55/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/2dd75244126e43ff77db54b8d46db733/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/beecf0e9ebfcf5356a634d1c079784c9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /home/techjini/.gradle/caches/transforms-2/files-2.1/d3c530e871d109709081ae59964f4dc0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/69d5867d594c2b9a39004b739dd89066/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/aacc644b2fada0952cb05b432de0deb4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/07c83b5b9555afde2c970a2f1e08c39b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/67e11c370e4258f67b8993b9a37635a9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/9ceda449c6e1808af9203219687d52f8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/c1599a3d46b39145ca5034a957d52438/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/3a34274303157e4d6e5bba8135520f8f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/4120401dc4ee1abd30a9c049bfd6dc3c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/dd9402b1e130ec837db8161aff99d55a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/b26e3d9ac094e7344ab46e24635a33b2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/411f3fdeef2623203a8dc1a43bda1290/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/cc69b41440f3ea62ccc16eebecae3c53/AndroidManifest.xml:2:1-9:12
+INJECTED from /home/techjini/Documents/blog/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/techjini/Documents/blog/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /home/techjini/Documents/blog/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml:2:3-21
+		INJECTED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml:2:3-21
+		INJECTED from /home/techjini/Documents/blog/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/techjini/Documents/blog/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/techjini/Documents/blog/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /home/techjini/Documents/blog/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.4] /home/techjini/.gradle/caches/transforms-2/files-2.1/9695bb79ff48dbbf11965963f6a2dfbd/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.4] /home/techjini/.gradle/caches/transforms-2/files-2.1/9695bb79ff48dbbf11965963f6a2dfbd/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/8d1c0783f8fffbd3612c439af381dbd3/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/8d1c0783f8fffbd3612c439af381dbd3/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /home/techjini/.gradle/caches/transforms-2/files-2.1/d3c530e871d109709081ae59964f4dc0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /home/techjini/.gradle/caches/transforms-2/files-2.1/d3c530e871d109709081ae59964f4dc0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/69d5867d594c2b9a39004b739dd89066/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/69d5867d594c2b9a39004b739dd89066/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /home/techjini/.gradle/caches/transforms-2/files-2.1/d3c530e871d109709081ae59964f4dc0/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /home/techjini/Documents/blog/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /home/techjini/Documents/blog/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /home/techjini/Documents/blog/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.blog.MainActivity
+ADDED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-gesture-handler] /home/techjini/Documents/blog/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/techjini/Documents/blog/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /home/techjini/Documents/blog/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /home/techjini/Documents/blog/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/techjini/Documents/blog/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/techjini/Documents/blog/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.4] /home/techjini/.gradle/caches/transforms-2/files-2.1/9695bb79ff48dbbf11965963f6a2dfbd/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.4] /home/techjini/.gradle/caches/transforms-2/files-2.1/9695bb79ff48dbbf11965963f6a2dfbd/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/techjini/.gradle/caches/transforms-2/files-2.1/f6eaac467fdb3fdfad537cccc679bb3f/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /home/techjini/.gradle/caches/transforms-2/files-2.1/f6eaac467fdb3fdfad537cccc679bb3f/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/techjini/.gradle/caches/transforms-2/files-2.1/75d0abf5d8e16c39cecbca74b39a7ec0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /home/techjini/.gradle/caches/transforms-2/files-2.1/75d0abf5d8e16c39cecbca74b39a7ec0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/49765a99f128ad3609dd2be1879890c4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/49765a99f128ad3609dd2be1879890c4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/a802e708d777e75d02340e32c0524fd5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/a802e708d777e75d02340e32c0524fd5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/63ae2b61a11d8a9cf29479dbcf90ff90/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/63ae2b61a11d8a9cf29479dbcf90ff90/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/2bf4ac9757533e2c3086a0858b873bfc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/2bf4ac9757533e2c3086a0858b873bfc/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/6ca428fd7351047c283f5e3d02b294b6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/6ca428fd7351047c283f5e3d02b294b6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/51048bd987baf0c282d0557d176ecc73/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/51048bd987baf0c282d0557d176ecc73/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/2eb72ccd3e33fda256e831dbc49368b2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/2eb72ccd3e33fda256e831dbc49368b2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/8d1c0783f8fffbd3612c439af381dbd3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/8d1c0783f8fffbd3612c439af381dbd3/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.transition:transition:1.1.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/ad4364d3077358952a0558dd20143902/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/ad4364d3077358952a0558dd20143902/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/dfc5120a70d4e5fb22e88555bcf3d42a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/dfc5120a70d4e5fb22e88555bcf3d42a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/545ecca96010f513249a79d344ee1adf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/545ecca96010f513249a79d344ee1adf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/f4639f6054db6779f0b723f1814c6989/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/f4639f6054db6779f0b723f1814c6989/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/247b6e9cea18e32c66fc1509e754edf2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/247b6e9cea18e32c66fc1509e754edf2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/techjini/.gradle/caches/transforms-2/files-2.1/aab6ec74cdfdc8819c5d0b6930671a67/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /home/techjini/.gradle/caches/transforms-2/files-2.1/aab6ec74cdfdc8819c5d0b6930671a67/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/f8fa2db41c499fe952db920b401fc022/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/f8fa2db41c499fe952db920b401fc022/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/5fc23617a54386cc55ec987696f5437c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/5fc23617a54386cc55ec987696f5437c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/ff1aa9e17946fa213238901194d966b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/ff1aa9e17946fa213238901194d966b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/78d16640d59ab89ef4b050b6fb018057/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/78d16640d59ab89ef4b050b6fb018057/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/020be7e7b2b0cc38fc4161c846840e3c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/020be7e7b2b0cc38fc4161c846840e3c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/91dcfd72722c26b1ea1b5c2ffa809d55/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/91dcfd72722c26b1ea1b5c2ffa809d55/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/2dd75244126e43ff77db54b8d46db733/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/2dd75244126e43ff77db54b8d46db733/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/beecf0e9ebfcf5356a634d1c079784c9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/beecf0e9ebfcf5356a634d1c079784c9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/techjini/.gradle/caches/transforms-2/files-2.1/d3c530e871d109709081ae59964f4dc0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /home/techjini/.gradle/caches/transforms-2/files-2.1/d3c530e871d109709081ae59964f4dc0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/69d5867d594c2b9a39004b739dd89066/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/69d5867d594c2b9a39004b739dd89066/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/aacc644b2fada0952cb05b432de0deb4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/aacc644b2fada0952cb05b432de0deb4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/07c83b5b9555afde2c970a2f1e08c39b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/07c83b5b9555afde2c970a2f1e08c39b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/67e11c370e4258f67b8993b9a37635a9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/67e11c370e4258f67b8993b9a37635a9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/9ceda449c6e1808af9203219687d52f8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/9ceda449c6e1808af9203219687d52f8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/c1599a3d46b39145ca5034a957d52438/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/c1599a3d46b39145ca5034a957d52438/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/3a34274303157e4d6e5bba8135520f8f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/3a34274303157e4d6e5bba8135520f8f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/4120401dc4ee1abd30a9c049bfd6dc3c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/4120401dc4ee1abd30a9c049bfd6dc3c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/dd9402b1e130ec837db8161aff99d55a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/dd9402b1e130ec837db8161aff99d55a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/b26e3d9ac094e7344ab46e24635a33b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/b26e3d9ac094e7344ab46e24635a33b2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/411f3fdeef2623203a8dc1a43bda1290/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/411f3fdeef2623203a8dc1a43bda1290/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/cc69b41440f3ea62ccc16eebecae3c53/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /home/techjini/.gradle/caches/transforms-2/files-2.1/cc69b41440f3ea62ccc16eebecae3c53/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/techjini/Documents/blog/android/app/src/debug/AndroidManifest.xml
+INJECTED from /home/techjini/Documents/blog/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/techjini/Documents/blog/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/techjini/Documents/blog/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/techjini/Documents/blog/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/techjini/Documents/blog/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/techjini/Documents/blog/android/app/src/debug/AndroidManifest.xml:5:22-75
